@@ -1,0 +1,12 @@
+{
+  "name": "slice-dd",
+  "version": "0.1.0",
+  "description": "Slice-Driven Development: AI development in small vertical slices, driven by acceptance tests (ATDD), with a living genome.",
+  "bin": { "slice-dd": "cli/slice-dd.js" },
+  "files": ["cli", "commands", "templates", "example", "README.md", "LICENSE"],
+  "keywords": ["atdd", "vertical-slice", "tdd", "spec-driven-development", "claude-code", "ai-agents"],
+  "author": "Heimer",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/OWNER/slice-dd.git" },
+  "engines": { "node": ">=18" }
+}

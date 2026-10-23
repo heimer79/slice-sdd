@@ -1,0 +1,11 @@
+{
+  "name": "slice-dd",
+  "owner": { "name": "Heimer" },
+  "plugins": [
+    {
+      "name": "slice",
+      "source": "./",
+      "description": "Slice-Driven Development: small vertical slices, acceptance tests first, living genome."
+    }
+  ]
+}
