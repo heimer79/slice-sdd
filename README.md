@@ -95,11 +95,11 @@ There are three ways to install Slice. Pick one.
 Inside Claude Code:
 
 ```text
-/plugin marketplace add OWNER/slice-dd
+/plugin marketplace add heimer79/slice-dd
 /plugin install slice@slice-dd
 ```
 
-`OWNER/slice-dd` is the GitHub repository that hosts Slice. The first command registers the repository as a marketplace (it reads `.claude-plugin/marketplace.json`); the second installs the `slice` plugin from it. Restart Claude Code if the commands don't show up, then type `/slice` to see all 7.
+`heimer79/slice-dd` is the GitHub repository that hosts Slice. The first command registers the repository as a marketplace (it reads `.claude-plugin/marketplace.json`); the second installs the `slice` plugin from it. Restart Claude Code if the commands don't show up, then type `/slice` to see all 7.
 
 To update: `/plugin marketplace update slice-dd`. To remove: `/plugin uninstall slice@slice-dd`.
 
