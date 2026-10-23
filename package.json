@@ -5,8 +5,8 @@
   "bin": { "slice-dd": "cli/slice-dd.js" },
   "files": ["cli", "commands", "templates", "example", "README.md", "LICENSE"],
   "keywords": ["atdd", "vertical-slice", "tdd", "spec-driven-development", "claude-code", "ai-agents"],
-  "author": "Heimer",
+  "author": "Heimer Martinez",
   "license": "MIT",
-  "repository": { "type": "git", "url": "git+https://github.com/OWNER/slice-dd.git" },
+  "repository": { "type": "git", "url": "git+https://github.com/heimer79/slice-sdd.git" },
   "engines": { "node": ">=18" }
 }

@@ -3,8 +3,8 @@
   "displayName": "Slice",
   "version": "0.1.0",
   "description": "Slice-Driven Development: AI development in small vertical slices, driven by acceptance tests (ATDD), with a living genome.",
-  "author": { "name": "Heimer" },
-  "repository": "https://github.com/OWNER/slice-dd",
+  "author": { "name": "Heimer Martinez" },
+  "repository": "https://github.com/heimer79/slice-sdd.git",
   "license": "MIT",
   "keywords": ["atdd", "vertical-slice", "tdd", "spec-driven-development", "workflow"]
 }
